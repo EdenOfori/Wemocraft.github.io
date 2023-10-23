@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+
+*{
+	padding: 0;
+	margin: 0;
+}
+
+.footer{
+	background-color: lightpink;
+	padding-top: 40px;
+	padding-bottom: 100px;
+	font-family: poppins;
+	text-align: center;
+}
+.foot a{
+	text-decoration: none;
+	color: black;
+	font-size: 1.2rem;
+}
+.icon i{
+	font-size: 2rem;
+	padding-top: 30px;
+	color: black;
+
+}
+
+.copy{
+	font-size: 15px;
+	font-weight: 200;
+	align-items: center;
+	margin-top: 30px;
+}
